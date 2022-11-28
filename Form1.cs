@@ -54,11 +54,10 @@ namespace CosmanLab2
         private void btnData_Click(object sender, EventArgs e)
         {
             //on data button press hide the image and show the data label containing a brief description
+            //Change created here------------------------------------------------------------------------------------
             lblData.Visible = true;
             picImage.Visible = false;
-            lblData.Text = "My topic is " + lblTopic.Text + ".\n\nI first started playing basketball " +
-                "when i was about 8 years old. \n\nIt is my favorite sport and I still enjoy playing to this" +
-                "day. \n\nMy favorite basketball team is the Toronto Raptors.";
+            lblData.Text = "My topic is " + lblTopic.Text + "This text has been changed"; //<---------------
         }
 
         private void picImage_Click(object sender, EventArgs e)
