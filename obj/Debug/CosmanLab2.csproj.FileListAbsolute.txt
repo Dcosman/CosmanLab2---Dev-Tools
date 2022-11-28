@@ -9,3 +9,14 @@ C:\0-Fall2022\Intro to Programming\Labs\Lab 2\CosmanLab2\obj\Debug\CosmanLab2.cs
 C:\0-Fall2022\Intro to Programming\Labs\Lab 2\CosmanLab2\obj\Debug\CosmanLab2.csproj.CoreCompileInputs.cache
 C:\0-Fall2022\Intro to Programming\Labs\Lab 2\CosmanLab2\obj\Debug\CosmanLab2.exe
 C:\0-Fall2022\Intro to Programming\Labs\Lab 2\CosmanLab2\obj\Debug\CosmanLab2.pdb
+C:\0-Fall2022\Intro to Development Tools\Labs\CosmanLab2 - Dev Tools\bin\Debug\CosmanLab2.exe.config
+C:\0-Fall2022\Intro to Development Tools\Labs\CosmanLab2 - Dev Tools\bin\Debug\CosmanLab2.exe
+C:\0-Fall2022\Intro to Development Tools\Labs\CosmanLab2 - Dev Tools\bin\Debug\CosmanLab2.pdb
+C:\0-Fall2022\Intro to Development Tools\Labs\CosmanLab2 - Dev Tools\obj\Debug\CosmanLab2.csproj.AssemblyReference.cache
+C:\0-Fall2022\Intro to Development Tools\Labs\CosmanLab2 - Dev Tools\obj\Debug\CosmanLab2.csproj.SuggestedBindingRedirects.cache
+C:\0-Fall2022\Intro to Development Tools\Labs\CosmanLab2 - Dev Tools\obj\Debug\CosmanLab2.Form1.resources
+C:\0-Fall2022\Intro to Development Tools\Labs\CosmanLab2 - Dev Tools\obj\Debug\CosmanLab2.Properties.Resources.resources
+C:\0-Fall2022\Intro to Development Tools\Labs\CosmanLab2 - Dev Tools\obj\Debug\CosmanLab2.csproj.GenerateResource.cache
+C:\0-Fall2022\Intro to Development Tools\Labs\CosmanLab2 - Dev Tools\obj\Debug\CosmanLab2.csproj.CoreCompileInputs.cache
+C:\0-Fall2022\Intro to Development Tools\Labs\CosmanLab2 - Dev Tools\obj\Debug\CosmanLab2.exe
+C:\0-Fall2022\Intro to Development Tools\Labs\CosmanLab2 - Dev Tools\obj\Debug\CosmanLab2.pdb
